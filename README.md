@@ -17,3 +17,6 @@ sebelumnya, pastikan udah login/daftar di apk cekiceki/flashgo
 7. masuk termux, ke dir flashpy `cd flashpy` lalu jalankan `python cream.py`
 8. sebelumnya klo muncul tulisan **Aku ingin lebih mengenalmu :(** klean isi apa yang diminta
   caranya? buka netcapture cari yang ada di hasil capture
+
+Gak ngerti? [tonton](#) videonya
+
