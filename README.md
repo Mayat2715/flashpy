@@ -23,4 +23,10 @@ sebelumnya, pastikan udah login/daftar di apk cekiceki/flashgo
 8. sebelumnya klo muncul tulisan **Aku ingin lebih mengenalmu :(** klean isi apa yang diminta
   caranya? buka netcapture cari yang ada di hasil capture
 
+# fitur
+* invite teman
+* absen harian
+* share berita
+* baca berita (limit 20)
+
 Gak ngerti? tonton [video](https://youtu.be/kg6CwvcDghc)nya
