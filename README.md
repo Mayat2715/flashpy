@@ -1,6 +1,11 @@
 # flashpy
 flashgo/cekiceki
 
+# Daftar isi
+- [apk](#apk)
+- [Penginstalan](#step)
+- [Fitur](#fitur)
+
 # apk
 - [flashgo](https://play.google.com/store/apps/details?id=com.cari.promo.diskon)
 - [net capture](https://play.google.com/store/apps/details?id=com.minhui.networkcapture)
@@ -18,5 +23,4 @@ sebelumnya, pastikan udah login/daftar di apk cekiceki/flashgo
 8. sebelumnya klo muncul tulisan **Aku ingin lebih mengenalmu :(** klean isi apa yang diminta
   caranya? buka netcapture cari yang ada di hasil capture
 
-Gak ngerti? [tonton](#) videonya
-
+Gak ngerti? tonton [video](https://youtu.be/kg6CwvcDghc)nya
