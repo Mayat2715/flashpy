@@ -7,7 +7,7 @@ flashgo/cekiceki
 - [Fitur](#fitur)
 
 # apk
-- [flashgo](https://play.google.com/store/apps/details?id=com.cari.promo.diskon)
+- [flashgo](https://sfile.mobi/8R4chdoJigM)
 - [net capture](https://play.google.com/store/apps/details?id=com.minhui.networkcapture)
 
 # step
